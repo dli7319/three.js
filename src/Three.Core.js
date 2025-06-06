@@ -34,6 +34,7 @@ export { CompressedArrayTexture } from './textures/CompressedArrayTexture.js';
 export { CompressedCubeTexture } from './textures/CompressedCubeTexture.js';
 export { CubeTexture } from './textures/CubeTexture.js';
 export { CanvasTexture } from './textures/CanvasTexture.js';
+export { HTMLTexture } from './textures/HTMLTexture.js';
 export { DepthTexture } from './textures/DepthTexture.js';
 export { ExternalTexture } from './textures/ExternalTexture.js';
 export { Texture } from './textures/Texture.js';
